@@ -48,7 +48,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/Tarigan0700/whatsapp-bot.git
-> cd imageToSticker
+> cd whatsapp-bot
 ```
 
 Install the dependencies:
