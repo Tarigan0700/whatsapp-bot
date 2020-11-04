@@ -7,8 +7,6 @@
 |       ✅       | Reply A Photo                    |
 |       ✅       | Image Url                        |
 |       ✅       | Animated sticker using giphy url |
-|       https://bit.ly/3hmgD4R       | sticker with no background       |
-|       https://bit.ly/3hmgD4R       | sticker meme      |
 
 
 | Downloader |                     Feature                |
@@ -49,7 +47,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/YogaSakti/imageToSticker.git
+> git clone https://github.com/Tarigan0700/whatsapp-bot.git
 > cd imageToSticker
 ```
 
